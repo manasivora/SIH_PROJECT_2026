@@ -1,0 +1,12 @@
+{
+  "name": "Krishi Rakshak - AI Crop Doctor",
+  "description": "Pan-India multilingual AI crop health & disease detection decision support system for Indian farmers with IPM, weather-risk forecasting, and regional language support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
